@@ -1,21 +1,33 @@
-MIT License
+RasCode Source Code License & Terms of Use
 
-Copyright (c) 2026 Ahamed
+Copyright (c) 2026 Ahamed. All Rights Reserved.
+1. Ownership & Intellectual Property
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+The RasCode programming language, compiler framework (rascom), core subsystems, source code, binaries, documentation, and associated assets (collectively referred to as the "Software") are the sole and exclusive intellectual property of the original creator, Ahamed. No ownership, trademark, or copyright interest is transferred to any person or entity by viewing, downloading, or accessing this source code.
+2. Strict Restrictions
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Any unauthorized use of this Software is strictly prohibited. You are explicitly NOT permitted to:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+    Copy or Paste: Replicate, copy, duplicate, or paste any portion of this source code into other software packages, compilers, applications, or public/private projects.
+
+    Distribute: Modify, branch, sublicense, rent, lease, sell, or redistribute the Software, whether in raw source code form or compiled binary format.
+
+    Claim Attribution: Falsely represent, imply, or claim that the Software or any derivative work based on it is your own creation or the creation of anyone other than Ahamed.
+
+3. Permitted Actions
+
+You are granted a limited, non-exclusive, non-transferable right to:
+
+    View the source code for personal educational, inspection, or review purposes only.
+
+    Clone a local copy solely for execution, testing, and debugging on your personal hardware.
+
+4. Permission for External Use
+
+Any use of this Software outside the bounds of Section 3—including but not limited to inclusion in other projects, commercial deployment, or derivative compiler extensions—requires the prior, explicit, written permission of the copyright holder (Ahamed). To request permission, contact the author directly via official channels.
+5. Termination of Rights
+
+Any breach of these terms automatically terminates your license to view or use this Software with immediate effect. The copyright holder reserves the right to pursue all legal and equitable remedies under local and international copyright law.
+6. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
