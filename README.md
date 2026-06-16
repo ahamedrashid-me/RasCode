@@ -12,7 +12,7 @@
 ```
 <img width="992" height="1056" alt="RasCom" src="https://github.com/user-attachments/assets/14b78390-35b8-42f8-a39e-87f514036fb1" />
 
-## 1. What is RasCode?
+## 1. What is RasCode?  [for better understandig please read through all the documents!]
 
 **RasCode** (also known as **RasLang**) is an ahead-of-time (AOT) compiled, statically typed systems programming language designed from the ground up for high-performance infrastructures, bare-metal operations, and modern cloud environments. Architected to serve as a drop-in replacement for legacy systems languages, RasCode unifies three paradigms often at war with one another: **Rust-grade strict runtime memory safety guarantees**, **execution speeds that aggressively outrun optimized C**, and **built-in zero-dependency compiler intelligence**.
 
