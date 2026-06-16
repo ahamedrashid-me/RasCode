@@ -10,6 +10,7 @@
   Intelligent · Memory-Safe · Aggressively Optimized Systems Language
 
 ```
+<img width="992" height="1056" alt="RasCom" src="https://github.com/user-attachments/assets/14b78390-35b8-42f8-a39e-87f514036fb1" />
 
 ## 1. What is RasCode?
 
